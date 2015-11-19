@@ -1,0 +1,6 @@
+ 	Indoor	Indoor - Clutter	Outdoor	Outdoor-  Clutter
+Scale =2	99	96	97.5	90
+Scale = 5	98.5	92	96	83
+Scale =10	98.5	88	94.5	78.5
+Scale = 20	98	89	94	78
+Scale = 25	97	88	94	81
